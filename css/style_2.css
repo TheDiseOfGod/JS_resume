@@ -1,0 +1,41 @@
+span{
+  font-weight:bold; 
+  padding-right: 2em;
+  
+} 
+.text{
+  font-weight:normal; 
+  padding-right: 1em;
+}
+a{
+  padding-right: 1em;
+}
+
+div#color{
+  float: left;
+  height: 100%;
+  width: 210px;
+  text-align: center;
+  color: white;
+  background-color: cornflowerblue;
+}
+div#main{
+  text-align: left;
+  float: left;
+  margin-left: 30px;
+}
+.js{
+  position: absolute;
+  top: 90%;
+  left: 15%;
+  width: 100px;
+  height: 40px;
+}
+button{
+  width: 100px;
+  height: 40px;
+  background: black;
+  opacity: 0.8;
+  color: white;
+  font-size: 24px;
+}

@@ -1,0 +1,258 @@
+span{
+    font-weight:bold; 
+   
+    
+  } 
+  
+  .text{
+    font-weight:normal; 
+    padding-right: 1em;
+  }
+ body{
+     position: absolute;
+     overflow: hidden;
+     padding: 0;
+     width: 100%;
+     height:100%;
+     border: 1px solid silver;
+ }
+ div#color{
+    position: absolute;
+     background-color: gray;
+     color: white;
+     float: top;
+     width: 100%;
+     height:80px;
+     margin: 0;
+ }
+.h2_1{
+    position: absolute;
+    width:150px;
+    height:150px; 
+    border: 1px solid white;
+    text-align: center ;
+    margin: 0;
+    padding-top: 60px;
+    top:80px;
+    left: 0;
+    float: left;
+    background-color: silver;    
+}
+.h2_2{
+    position: absolute;
+    width:150px;
+    height:150px; 
+    top:234px;
+    left: 0px;
+    border: 1px solid white;
+    text-align: center;
+    margin: 0;
+    padding-top: 60px;
+    float: left;
+    background-color: silver;    
+}
+.h2_3{
+    position: absolute;
+    width:150px;
+    height:150px; 
+    top:388px;
+    left: 0px;
+    float: left;
+    border: 1px solid white;
+    text-align: center;
+    margin: 0;
+    padding-top: 60px;
+    background-color: silver;    
+}
+.h2_4{
+    position: absolute;
+    width:150px;
+    height:150px; 
+    top:542px;
+    left: 0px;
+    float: left;
+    border: 1px solid white;
+    text-align: center;
+    margin: 0;
+    padding-top: 60px;
+    background-color: silver;      
+}
+.h2_5{
+    position: absolute;
+    width:150px;
+    height:90px; 
+    top:696px;
+    left: 0px;
+    float: left;
+    border: 1px solid white;
+    text-align: center;
+    margin: 0;
+    padding-top: 60px;
+    background-color: silver;    
+}
+.p1{
+    position: absolute;
+    width: 1734px;
+    height:130px;
+    margin: 0;
+    float:left;
+    border-style: solid none none none;
+    border-color: silver;
+    border-width: 1px;
+    text-align: left;
+    padding-left: 30px;
+    padding-top: 20px;
+    left:154px;
+    top: 80px;
+}
+.p2{
+    position: absolute;
+    width: 1734px;
+    height:130px;
+    margin: 0;
+    float:left;
+    border-style: solid none none none;
+    border-color: silver;
+    border-width: 1px;
+    text-align: left;
+    padding-left: 30px;
+    padding-top: 20px;
+    left:154px;
+    top:234px;
+   
+}
+.p3{
+    position: absolute;
+    width: 1734px;
+    height:130px;
+    margin: 0;
+    float:left;
+    border-style: solid none none none;
+    border-color: silver;
+    border-width: 1px;
+    text-align: left;
+    padding-left: 30px;
+    padding-top: 20px;
+    left:154px;
+    top:388px;
+}
+.p4{
+    position: absolute;
+    float:left;
+    margin: 2px;
+    top: 388px;
+    left: 255px;
+    padding-top: 20px;
+}
+.p5{
+    position:absolute;
+    float:left;
+    padding-left: 30px;
+    padding-top: 20px;
+    margin: 0;
+    left: 154px;
+    top: 420px;
+}
+.p6{
+    position: absolute;
+    float:left;
+    margin: 2px;
+    top: 420px;
+    left: 255px;
+    padding-top: 20px;
+}
+.p7{
+    position: absolute;
+    width: 1734px;
+    height:130px;
+    margin: 0;
+    float:left;
+    border-style: solid none none none;
+    border-color: silver;
+    border-width: 1px;
+    text-align: left;
+    padding-left: 30px;
+    padding-top: 20px;
+    left:154px;
+    top:542px;
+}
+.p8{
+    position: absolute;
+    float:left;
+    margin: 2px;
+    top: 542px;
+    left: 220px;
+    padding-top: 20px;
+}
+.p9{
+    position:absolute;
+    float:left;
+    padding-left: 30px;
+    padding-top: 20px;
+    margin: 0;
+    left: 154px;
+    top: 572px;
+}
+.p10{
+    position: absolute;
+    float:left;
+    margin: 2px;
+    top: 570px;
+    left: 235px;
+    padding-top: 20px;
+}
+.p11{
+    position: absolute;
+    width: 1734px;
+    height:130px;
+    margin: 0;
+    float:left;
+    border-style: solid none none none;
+    border-color: silver;
+    border-width: 1px;
+    text-align: left;
+    padding-left: 30px;
+    padding-top: 20px;
+    left:154px;
+    top:696px;
+}
+.p12{
+    position: absolute;
+    float:left;
+    margin: 2px;
+    top: 695px;
+    left: 250px;
+    padding-top: 20px;
+    }
+    .p13{
+        position:absolute;
+        float:left;
+        padding-left: 30px;
+        padding-top: 20px;
+        margin: 0;
+        left: 154px;
+        top:722px;
+    }
+.p14{
+    position: absolute;
+    float:left;
+    margin: 2px;
+    top: 720px;
+    left: 255px;
+    padding-top: 20px;
+}
+.js{
+  position: absolute;
+  top: 90%;
+  left: 15%;
+  width: 100px;
+  height: 40px;
+}
+button{
+  width: 100px;
+  height: 40px;
+  background: black;
+  opacity: 0.8;
+  color: white;
+  font-size: 24px;
+}
